@@ -1,5 +1,5 @@
 # SUCSSYB
-## ASQ-Certified Six Sigma Yellow Belt Exam Prep Specialization Specialization
+## ASQ-Certified Six Sigma Yellow Belt Exam Prep Specialization Specialization (3 course series)
 
 Prepare for a career in the field of quality and process improvements and learn in-demand skills like Lean and Six Sigma methodologies and the DMAIC framework to get job-ready in less than 4 months.
 
